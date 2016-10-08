@@ -1,0 +1,36 @@
+.btn{
+	margin-top: 10px;
+}
+
+.copyr{
+    margin-left: 8px;
+}
+
+
+h3{
+    margin-left: 24px;
+}
+
+.main-section {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+#myCarousel{
+	
+	padding: 20%;
+
+}
+
+.sidebar{
+	margin-left: 40%;
+	padding-top: 60px;
+}
+
+.socialmedia{
+	padding-left: 40px;
+	padding-bottom: 10px;
+}
+
+
